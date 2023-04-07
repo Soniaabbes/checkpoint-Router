@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.listOfFilm{display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 50px; margin-left: 70px;margin-right: 70px;
+padding-bottom: 50px; padding-left: 50px;padding: 50px; padding-top: 80px;}
+ .rateFilm, .titleFilm{display: flex; justify-content: space-between ;  flex-wrap: nowrap }
+.chooseFilm{ display:flex;   flex-direction: column;   justify-content:flex-start; flex-wrap: nowrap;  margin:auto   }
+.img{ width: 500px;height: 250px; margin: auto;}
+.intro{ font-family:  'Lucida Grande'; font-weight: bolder; font-size: 50px;}
+.Trailerdescription{font-family:  'Lucida Grande'; font-weight: bold; font-size: 50px; }
+.intro2{ display: flex; justify-content: space-between; margin-top: 20px; padding: 30px; margin-bottom:25px ;} 
+
+.List{display: flex; flex-wrap: wrap; justify-content: space-between;}
+.Forma{ display: flex;}
+.Trailer{display:flex; flex-direction:column; margin:auto}
